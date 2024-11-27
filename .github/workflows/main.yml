@@ -16,3 +16,5 @@ jobs:
         
       - name: 'Testing printing '
         run: echo youssef 
+
+      - uses: actions/checkout@v3
